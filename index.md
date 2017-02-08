@@ -21,9 +21,9 @@ Remittances, Institutions and Economic Growth, *World Development*, 37, 1. A wid
 *International Financial Co-operation: Political Economics of Compliance with the 1988 Basel Accord*, Routledge, February 2008. Based on my doctoral thesis, this is a global comparative analysis of the implementation of the first Basel agreement for banks' credit risks.[(Link)](https://www.amazon.com/International-Financial-Co-Operation-Political-Compliance-ebook/dp/B001QEQR0G)
 
 # Social media
-[(Twitter)](https://twitter.com/brycequillin)
-[(LinkedIn)](http://www.linkedin.com/in/brycequillin)
-[(GitHub)](https://github.com/bquillin12)
-[(Amazon author's page)](https://www.amazon.com/Bryce-Quillin/e/B001JSCH6W)
+[Twitter](https://twitter.com/brycequillin)  
+[LinkedIn](http://www.linkedin.com/in/brycequillin)  
+[GitHub](https://github.com/bquillin12)  
+[Amazon author's page](https://www.amazon.com/Bryce-Quillin/e/B001JSCH6W)  
 
 
