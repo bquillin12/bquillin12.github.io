@@ -8,15 +8,22 @@ Also served as chief economist at two start-up financial services firms, mostly 
 
 ## Some representative work
 
-*Global Monitoring Report 2015/2016: Development Goals in an Era of Demographic Change*, World Bank global flagship report, authored by a World Bank DEC team, October 2015.
+*Global Monitoring Report 2015/2016: Development Goals in an Era of Demographic Change*, World Bank global flagship report, authored by a World Bank DEC team, October 2015.[(Link)](http://www.worldbank.org/gmr)
 
-*The Caucasus and Central Asia: Transitioning to Emerging Markets*, International Monetary Fund, Middle East and Central Asia Departmental Paper 14/2. I authored the bits on political economy and structural reforms and worked on monetary policy.
+*The Caucasus and Central Asia: Transitioning to Emerging Markets*, International Monetary Fund, Middle East and Central Asia Departmental Paper 14/2. I authored the bits on political economy and structural reforms and worked on monetary policy.[(Link)](https://www.imf.org/external/pubs/ft/dp/2014/1402mcd.pdf)
 
-Remittances, Institutions and Economic Growth, *World Development*, 37, 1. A widely cited paper on the impact of remittances on longer-term patterns of economic growth. Authored in 2009 with N. Catrinescu, M. Leon-Ledesma and M. Piracha.
+Remittances, Institutions and Economic Growth, *World Development*, 37, 1. A widely cited paper on the impact of remittances on longer-term patterns of economic growth. Authored in 2009 with N. Catrinescu, M. Leon-Ledesma and M. Piracha.[(Link)](https://ideas.repec.org/a/eee/wdevel/v37y2009i1p81-92.html)
 
-*East Asia Economic Update: Capturing New Sources of Growth*, World Bank, May 2012. I was lead author of the Bank's flagship economic monitor for East Asia and the Pacific.
+*East Asia Economic Update: Capturing New Sources of Growth*, World Bank, May 2012. I was lead author of the Bank's flagship economic monitor for East Asia and the Pacific.[(Link)](http://siteresources.worldbank.org/INTEAPHALFYEARLYUPDATE/Resources/550192-1337701176079/eap-update-may-2012-full-report.pdf)
 
-*Spotlight on European economic growth since 1945 in Golden Growth in Restoring the Luster of the European Economic Model*, World Bank regional flagship report, April 2012. I authored a section in this widely cited study on the history of post-war economic growth, with a focus on productivity growth, in Europe as compared with the U.S. and other parts of the world.
+*Spotlight on European economic growth since 1945 in Golden Growth in Restoring the Luster of the European Economic Model*, World Bank regional flagship report, April 2012. I authored a section in this widely cited study on the history of post-war economic growth, with a focus on productivity growth, in Europe as compared with the U.S. and other parts of the world.[(Link)](http://www.worldbank.org/en/region/eca/publication/golden-growth)
 
-*International Financial Co-operation: Political Economics of Compliance with the 1988 Basel Accord*, Routledge, February 2008. Based on my doctoral thesis, this is a global comparative analysis of the implementation of the first Basel agreement for banks' credit risks.
+*International Financial Co-operation: Political Economics of Compliance with the 1988 Basel Accord*, Routledge, February 2008. Based on my doctoral thesis, this is a global comparative analysis of the implementation of the first Basel agreement for banks' credit risks.[(Link)](https://www.amazon.com/International-Financial-Co-Operation-Political-Compliance-ebook/dp/B001QEQR0G)
+
+# Social media
+[(Twitter)](https://twitter.com/brycequillin)
+[(LinkedIn)](http://www.linkedin.com/in/brycequillin)
+[(GitHub)](https://github.com/bquillin12)
+[(Amazon author's page)](https://www.amazon.com/Bryce-Quillin/e/B001JSCH6W)
+
 
