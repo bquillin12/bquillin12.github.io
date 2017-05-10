@@ -8,6 +8,12 @@ Also served as chief economist at two start-up financial services firms, mostly 
 
 I completed my PhD at the London School of Economics where my doctoral thesis was a comparative political economic study of the implementation of the 1988 Basel Accord and was published by Routledge in 2008.
 
+## Some links to my work and social media
+[Twitter](https://twitter.com/brycequillin)  
+[LinkedIn](http://www.linkedin.com/in/brycequillin)  
+[GitHub](https://github.com/bquillin12)  
+[Amazon author's page](https://www.amazon.com/Bryce-Quillin/e/B001JSCH6W) 
+
 ## Some representative work
 
 *Global Monitoring Report 2015/2016: Development Goals in an Era of Demographic Change*, World Bank global flagship report, authored by a World Bank DEC team, October 2015.[(Link)](http://www.worldbank.org/gmr)
@@ -22,11 +28,7 @@ Remittances, Institutions and Economic Growth, *World Development*, 37, 1. A wid
 
 *International Financial Co-operation: Political Economics of Compliance with the 1988 Basel Accord*, Routledge, February 2008. Based on my doctoral thesis, this is a global comparative analysis of the implementation of the first Basel agreement for banks' credit risks.[(Link)](https://www.amazon.com/International-Financial-Co-Operation-Political-Compliance-ebook/dp/B001QEQR0G)
 
-## Some links to my work and social media
-[Twitter](https://twitter.com/brycequillin)  
-[LinkedIn](http://www.linkedin.com/in/brycequillin)  
-[GitHub](https://github.com/bquillin12)  
-[Amazon author's page](https://www.amazon.com/Bryce-Quillin/e/B001JSCH6W) 
+
 
  
 
