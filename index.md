@@ -8,7 +8,7 @@ Also served as chief economist at two start-up financial services firms, mostly 
 
 I completed my PhD at the London School of Economics where my doctoral thesis was a comparative political economic study of the implementation of the 1988 Basel Accord and was published by Routledge in 2008.
 
-# Some links to my work and social media
+## Some links to my work and social media
 [Twitter](https://twitter.com/brycequillin)  
 [LinkedIn](http://www.linkedin.com/in/brycequillin)  
 [GitHub](https://github.com/bquillin12)  
