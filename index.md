@@ -4,7 +4,9 @@ I am a senior economist in the Global Macroeconomics team in the Development Pro
 
 In terms of some specifics, I have spent over 10 years as a World Bank and IMF economist and currently am senior economist in the World Bank's Prospects Group, which is responsible for forecasting, modeling and exploring future scenarios for economic growth and development, based in the research and data arm (DEC) of the Bank. I co-authored the 2015/2016 Global Monitoring Report that featured a chart listed by the New Yorker as one of the Four Charts that Defined the World in 2015 [(Link)](http://goo.gl/0gRo9B). Previously, working for either the Bank or the Fund, I have covered Europe, Asia and the Middle East.
 
-Also served as chief economist at two start-up financial services firms, mostly recently at a quant hedge fund (2014-15) where I worked on integrating US and global macro forecasts into reversion and momentum strategies to generate high and low frequency signals for a range of asset classes, particularly U.S. and global equities. I also worked on the engineering and backtesting of machine learning approaches to fundamentals-based investment strategies and continue to work on these in my spare time.
+Also served as chief economist at two start-up financial services firms, mostly recently at a quant hedge fund (2014-15) where I worked on integrating US and global macro forecasts into reversion and momentum strategies to generate high and low frequency signals for a range of asset classes, particularly U.S. and global equities. 
+
+I completed my PhD at the London School of Economics where my doctoral thesis was a comparative political economic study of the implementation of the 1988 Basel Accord and was published by Routledge in 2008.
 
 ## Some representative work
 
