@@ -12,7 +12,7 @@ I completed my PhD at the London School of Economics where my doctoral thesis wa
 [Twitter](https://twitter.com/brycequillin)  
 [GitHub](https://github.com/bquillin12)  
 [Amazon author's page](https://www.amazon.com/Bryce-Quillin/e/B001JSCH6W)   
-[World Bank blogger page](http://blogs.worldbank.org/team/bryce-quillin)   
+[World Bank blogger page](http://blogs.worldbank.org/team/bryce-quillin)     
 [LinkedIn](https://linkedin.com/in/bquillin)
 
 ## Some representative work
