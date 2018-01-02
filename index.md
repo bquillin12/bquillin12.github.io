@@ -17,7 +17,7 @@ I completed my PhD at the London School of Economics where my doctoral thesis wa
 
 ## Some representative work
 
-*Global Monitoring Report 2015/2016: Development Goals in an Era of Demographic Change*, World Bank global flagship report, authored by a World Bank DEC team, October 2015.[(Link)](http://www.worldbank.org/gmr)
+*Global Monitoring Report 2015/2016: Development Goals in an Era of Demographic Change*, World Bank global flagship report, authored by a World Bank DEC team, October 2015. Featured a chart listed by the New Yorker as one of the Four Charts that Defined the World in 2015. [(Link)](http://www.worldbank.org/gmr)
 
 *The Caucasus and Central Asia: Transitioning to Emerging Markets*, International Monetary Fund, Middle East and Central Asia Departmental Paper 14/2. I authored the bits on political economy and structural reforms and worked on monetary policy.[(Link)](https://www.imf.org/external/pubs/ft/dp/2014/1402mcd.pdf)
 
