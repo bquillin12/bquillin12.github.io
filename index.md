@@ -21,7 +21,7 @@ I completed my PhD at the London School of Economics where my doctoral thesis wa
 
 *The Caucasus and Central Asia: Transitioning to Emerging Markets*, International Monetary Fund, Middle East and Central Asia Departmental Paper 14/2. I authored the bits on political economy and structural reforms and worked on monetary policy.[(Link)](https://www.imf.org/external/pubs/ft/dp/2014/1402mcd.pdf)
 
-Remittances, Institutions and Economic Growth, *World Development*, 37, 1. A widely cited paper on the impact of remittances on longer-term patterns of economic growth. Authored in 2009 with N. Catrinescu, M. Leon-Ledesma and M. Piracha.[(Link)](https://ideas.repec.org/a/eee/wdevel/v37y2009i1p81-92.html)
+Remittances, Institutions and Economic Growth, *World Development*, 37, 1. A widely cited paper on the impact of remittances on longer-term patterns of economic growth. Authored in 2009 with N. Catrinescu, M. Leon-Ledesma and M. Piracha. Selected as an Outstanding Research Product by the World Bank in the areas of trade and integration in 2009-11.[(Link)](https://ideas.repec.org/a/eee/wdevel/v37y2009i1p81-92.html)
 
 *East Asia Economic Update: Capturing New Sources of Growth*, World Bank, May 2012. I was lead author of the Bank's flagship economic monitor for East Asia and the Pacific.[(Link)](http://siteresources.worldbank.org/INTEAPHALFYEARLYUPDATE/Resources/550192-1337701176079/eap-update-may-2012-full-report.pdf)
 
