@@ -1,6 +1,6 @@
 ## A little about me
 
-I am senior economist in the Global Macroeconomics team in the Development Prospects Group at the World Bank. Previously, I held research and operations positions covering economies in Europe, Central Asia, and East Asia at the World Bank and the IMF and served as chief economist at a quant hedge fund. I have advised start-ups in the areas of investment management, impact investing, data analytics, and content development. 
+I am senior economist in the Global Macroeconomics team in the Development Prospects Group at the World Bank. Previously, I held research and operations positions covering economies in North America, Europe, Central Asia, and East Asia at the World Bank and the IMF and served as chief economist at a quant hedge fund. I have advised start-ups in the areas of investment management, impact investing, data analytics, and content development. 
 
 In terms of some specifics, I have spent over 10 years as a World Bank and IMF economist and currently am senior economist in the World Bank's Prospects Group, which is responsible for forecasting, modeling and exploring future scenarios for economic growth and development, based in the research and data arm (DEC) of the Bank. I co-authored the 2015/2016 Global Monitoring Report that featured a chart listed by the New Yorker as one of the Four Charts that Defined the World in 2015 [(Link)](http://goo.gl/0gRo9B). 
 
