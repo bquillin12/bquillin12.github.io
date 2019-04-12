@@ -2,7 +2,7 @@
 
 I am the chief economist at Pfizer, where I set the in-house view on the macroeconomic landscape and provide economic consulting services across the firm, including applying econometric and machine learning methods to try and solve a wide variety of business problems. 
 
-Previoulsy, I spent almost 15 years as an economist at the World Bank and the International Monetary Fund where I worked on economies across Europe, Asia, and the Middle East and spent time in the Bank's research department (DECPG) on Global Modeling and Analytics and Global Macroeconomics Teams, which are responsible for forecasting, modeling and exploring future scenarios for economic growth and development. I co-authored the 2015/2016 Global Monitoring Report that featured a chart listed by the New Yorker as one of the Four Charts that Defined the World in 2015 [(Link)](http://goo.gl/0gRo9B). 
+Previoulsy, I spent almost 15 years as an economist at the World Bank and the International Monetary Fund where I worked on economies across Europe, Asia, and the Middle East and spent time in the Bank's research department (DECPG) on the Global Modeling and Analytics and Global Macroeconomics teams, which are responsible for forecasting, modeling and exploring future scenarios for economic growth and development. I co-authored the 2015/2016 Global Monitoring Report, which featured a chart listed by the New Yorker as one of the Four Charts that Defined the World in 2015 [(Link)](http://goo.gl/0gRo9B). 
 
 I also served as chief economist at a quant hedge fund where I worked on integrating US and global macro forecasts into reversion and momentum strategies to generate high and low frequency signals for a range of asset classes, particularly U.S. and global equities. 
 
