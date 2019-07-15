@@ -8,7 +8,7 @@ I co-authored the World Bank's 2015/2016 Global Monitoring Report, which feature
 
 I also served as chief economist at a quant hedge fund where I worked on integrating U.S. and global macro forecasts into reversion and momentum strategies to generate high and low frequency signals for a range of asset classes, particularly U.S. and global equities. 
 
-I completed my PhD at the London School of Economics and have taught at McGill, LSE, and Georgetown.
+I completed my PhD at the London School of Economics and have taught at McGill, LSE and Georgetown.
 
 ## Some links to my work and social media
 [Twitter](https://twitter.com/brycequillin)  
