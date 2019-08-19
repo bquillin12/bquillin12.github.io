@@ -1,6 +1,6 @@
 ## A little about me
 
-I am the chief economist at Pfizer, where I set the in-house view on the global economic landscape and provide economic consulting, data analysis, and modeling advisory services across the organization, including applying econometric and machine learning methods to try and solve a wide variety of business problems. 
+I am the chief economist at Pfizer, where I set the in-house view on the global economic landscape and provide economic consulting, data analysis, and modeling advisory services across the organization, including applying econometric, machine learning, and agent based modeling methods to try and solve a wide variety of business problems. 
 
 Previoulsy, I spent almost 15 years as an economist at the World Bank and the International Monetary Fund where I worked on economies across most regions of the world and covered problems in the areas of macroeconomic growth, economic development, financial development, demographics, migration, and the impact of new technologies on the manufacturing sector. In my last position, I spent time in the World Bank's research department (DECPG) on the Global Modeling and Global Macroeconomics teams, which are responsible for forecasting, modeling and exploring future scenarios for economic growth and development. 
 
