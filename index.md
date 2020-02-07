@@ -6,7 +6,7 @@ Previoulsy, I spent almost 15 years as an economist at the World Bank and the In
 
 I co-authored the World Bank's 2015/2016 Global Monitoring Report, which featured a chart listed by the New Yorker as one of the Four Charts that Defined the World in 2015 [(Link)](http://goo.gl/0gRo9B) and was lead author of the Bank's flagship macro report covering East Asia, including China.
 
-I also served as chief economist at a quant hedge fund where I worked on integrating U.S. and global macro forecasts into reversion and momentum strategies to generate high and low frequency signals for a range of asset classes, particularly U.S. and global equities. 
+I also served as chief economist at a quant hedge fund where I worked on integrating U.S. and global macro forecasts into reversion and momentum strategies to generate high and low frequency signals for a range of asset classes, particularly U.S. and global equities. I also managed a portfolio of long-only global equities. 
 
 I completed my PhD at the London School of Economics and have taught at McGill, LSE and Georgetown.
 
