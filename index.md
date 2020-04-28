@@ -1,6 +1,6 @@
 ## A little about me
 
-![image](https://user-images.githubusercontent.com/10642660/80533321-6fe4e800-896b-11ea-86ab-fc40a099f107.png)
+![image](https://user-images.githubusercontent.com/10642660/80533917-5abc8900-896c-11ea-86ac-7f8fb72e5942.png)
 
 For the past two years, I have been the head of global economics at Pfizer, where I set the in-house view on the prospects for cyclical and structural drivers of the global economic landscape and provide microeconomic consulting, data analysis, and modeling advisory services across the organization, including applying econometric, machine learning, and agent based modeling applications for pricing, finance, clinical practices, and other units across the organization. 
 
