@@ -5,5 +5,3 @@ google_analytics:
 show_downloads: true
 theme: jekyll-theme-dinky
 
-gems:
-  - jekyll-mentions
