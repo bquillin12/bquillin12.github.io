@@ -1,12 +1,14 @@
 ## A little about me
 
-For the past two years, I have been the head of global economics at Pfizer, where I set the in-house view on the prospects for cyclical and structural drivers of the global economic landscape and provide microeconomic consulting, data analysis, and modeling advisory services across the organization, including applying econometric, machine learning, and agent based modeling applications for global pricing, corporate finance, corporate affairs, clinical practices, and beyond. 
+My biggest professional passion is working in and contributing to corporate research envrionments. I have spent the past ten years contributing to corporate research in the public, financial, and non-financial corporate sectors. As always, research did not always succeed in producing answers that drove innovation and the attainment of corporate objectives, but it often did and I felt was always worthwhile.
+
+For the past two plus years, I have been the head of global economics at Pfizer, where I took over a position that was mostly charged with setting the in-house view on the prospects for cyclical and structural drivers of the global economic landscape and extended it to provide microeconomic consulting, data analysis, and modeling advisory services across the organization, including applying econometric, machine learning, and agent based modeling applications for global pricing, corporate finance, corporate affairs, clinical practices, and beyond. 
 
 Previoulsy, I spent almost 15 years as an economist at the World Bank and the International Monetary Fund where I worked on economies across most regions of the world and covered problems in the areas of macroeconomic growth, economic development, financial development, demographics, migration, and the impact of new technologies on the manufacturing sector. In my last position, I spent time in the World Bank's research department (DECPG) on the Global Modeling and Anlytics division and the Global Macroeconomics division, which are responsible for forecasting, modeling and exploring future scenarios for economic growth and development. 
 
-I also served as chief economist at a quant hedge fund where I worked on integrating U.S. and global macro forecasts into reversion and momentum strategies to generate high and low frequency signals for a range of asset classes, particularly U.S. and global equities. I also managed a portfolio of long-only global equities. 
+I also served as chief economist at a quant hedge fund where we worked with teams of university researching on how to integrate U.S. and global macro forecasts into reversion and momentum strategies to generate high and low frequency signals for a range of asset classes, particularly U.S. and global equities. I also managed a portfolio of long-only global equities. 
 
-I completed my PhD at the London School of Economics and have taught at McGill, LSE, Georgetown, and NYU.
+I completed my PhD at the London School of Economics and have taught part-time at McGill, LSE, Georgetown, and NYU.
 
 ## Some links to my work and social media
 [Twitter](https://twitter.com/brycequillin)  
