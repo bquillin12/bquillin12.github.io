@@ -1,6 +1,6 @@
 ## A little about me
 
-My biggest professional passion is working in and contributing to corporate research envrionments. I have spent the past ten years contributing to corporate research in the public, financial, and non-financial corporate sectors. As always, research did not always succeed in producing answers that drove innovation and the attainment of corporate objectives, but it often did and I felt was always worthwhile.
+My biggest professional passion is working in and contributing to applied research envrionments. I have spent the past ten years contributing to corporate research in the public, financial, and non-financial corporate sectors. As always, research did not always succeed in producing answers that drove innovation and the attainment of corporate objectives, but it often did and I felt was always worthwhile.
 
 For the past two plus years, I have been the head of global economics at Pfizer, where I took over a position that was mostly charged with setting the in-house view on the prospects for cyclical and structural drivers of the global economic landscape and extended it to provide microeconomic consulting, data analysis, and modeling advisory services across the organization, including applying econometric, machine learning, and agent based modeling applications for global pricing, corporate finance, corporate affairs, clinical practices, and beyond. 
 
