@@ -4,7 +4,7 @@ For the past two plus years, I have been the head of global economics at Pfizer.
 
 Previoulsy, I spent over a decade as an economist at the World Bank and the International Monetary Fund where I worked on economies across most regions of the world and covered problems in the areas of macroeconomic growth, economic development, financial development, demographics, migration, and the impact of new technologies on the manufacturing sector. In my last position, I spent time in the World Bank's research department (DECPG) on the Global Modeling and Anlytics division and the Global Macroeconomics division, which are responsible for forecasting, modeling and exploring future scenarios for economic growth and development. 
 
-I also served as chief economist at a quant hedge fund where we worked with teams of university researching on how to integrate U.S. and global macro forecasts into reversion and momentum strategies to generate high and low frequency signals for a range of asset classes, particularly U.S. and global equities. I also managed a portfolio of long-only global equities. 
+I also served as chief economist at a quant hedge fund where I integrated U.S. and global macro forecasts into reversion and momentum strategies to generate high and low frequency signals for a range of asset classes, particularly U.S. and global equities. I also managed a portfolio of long-only global equities. 
 
 I completed my PhD at the London School of Economics and have taught part-time at McGill, LSE, Georgetown, and NYU.
 
