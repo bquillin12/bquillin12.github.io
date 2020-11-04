@@ -4,7 +4,7 @@ My current research is at the intersection of social science, AI, and public pol
 
 Presently, I am the head of global economics and modeling at Pfizer, where I manages a cross-functional team of economists and data scientists that provides economic analysis and modeling (including econometric, machine learning/AI, and agent-based modeling) for teams across the organization, including clinical practice areas, real world evidence, and commercial units such as pricing, finance, corporate strategy, and beyond. 
 
-Previously, I spent over a decade as an economist at the World Bank and the International Monetary Fund where I worked on economies across most regions of the world. In my last position, I spent time in the World Bank's research department (DECPG) on the Global Modeling and Anlytics division and the Global Macroeconomics division, which are responsible for forecasting, modeling and exploring future scenarios for economic growth and development. 
+Previously, I spent over a decade as an economist at the World Bank and the International Monetary Fund where I worked on economies across most regions of the world. In my last position, I spent time in the World Bank's research department (DECPG) on the Global Modeling and Analytics division and the Global Macroeconomics division, which are responsible for forecasting, modeling and exploring future scenarios for economic growth and development. 
 
 I also served as chief economist at a quant hedge fund where I integrated U.S. and global macro forecasts into reversion and momentum strategies to generate high and low frequency signals for a range of asset classes, particularly U.S. and global equities. I also managed a portfolio of long-only global equities. 
 
