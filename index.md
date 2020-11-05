@@ -15,6 +15,7 @@ I also served as chief economist at a quant hedge fund where I integrated U.S. a
 [World Bank blogger page](http://blogs.worldbank.org/team/bryce-quillin)     
 [LinkedIn](https://linkedin.com/in/bquillin)  
 [BBVA OpenMind](https://www.bbvaopenmind.com/en/authors/bryce-quillin/)
+[Google Scholar](https://scholar.google.com/citations?user=9HiFdkEAAAAJ&hl=en)
 
 ## Some representative work
 
