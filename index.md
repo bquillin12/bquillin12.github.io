@@ -9,13 +9,13 @@ Previously, I spent over a decade as an economist at the World Bank and the Inte
 I also served as chief economist at a quant hedge fund where I integrated U.S. and global macro forecasts into reversion and momentum strategies to generate high and low frequency signals for a range of asset classes, particularly U.S. and global equities. I also managed a portfolio of long-only global equities. 
 
 ## Some links to my work and social media
+[Google Scholar](https://scholar.google.com/citations?user=9HiFdkEAAAAJ&hl=en)  
 [Twitter](https://twitter.com/brycequillin)  
 [GitHub](https://github.com/bquillin12)  
 [Amazon author's page](https://www.amazon.com/Bryce-Quillin/e/B001JSCH6W)   
 [World Bank blogger page](http://blogs.worldbank.org/team/bryce-quillin)     
 [LinkedIn](https://linkedin.com/in/bquillin)  
 [BBVA OpenMind](https://www.bbvaopenmind.com/en/authors/bryce-quillin/)  
-[Google Scholar](https://scholar.google.com/citations?user=9HiFdkEAAAAJ&hl=en)
 
 ## Some representative work
 
