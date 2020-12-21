@@ -1,6 +1,6 @@
 ## A little about me
 
-My current research is at the intersection of social science, AI, and public policy. My publications span a wide variety of areas in macroeconomics, finance, and development. Most recently I have done award winning work on the development of agent based approaches to model cancer progression, which I will present at TEDxPfizer in April 2021. I completed my PhD at the London School of Economics and have taught at McGill, LSE, and Georgetown. My next book (Machine Learning and AI for Macroeconomics) will be published by CRC Press in 2022.
+My current research is at the intersection of economics, machine learning, and agent based modeling. My publications span a wide variety of areas in macroeconomics, finance, and development. Most recently I have done award winning work on the development of agent based models to understand chronic disease progression, which I will present at TEDxPfizer in April 2021. I completed my PhD at the London School of Economics and have taught at McGill, LSE, and Georgetown. My next book (Machine Learning and AI for Macroeconomics) will be published by CRC Press in 2022.
 
 Presently, I am the head of global economics and modeling at Pfizer, where I manage a cross-functional team of economists and data scientists that provides economic analysis and modeling (including econometric, machine learning/AI, and agent-based modeling) for teams across the organization, including clinical practice areas, real world evidence, and commercial units such as pricing, finance, corporate strategy, and beyond. 
 
