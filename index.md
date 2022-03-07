@@ -1,6 +1,6 @@
 ## A little about me
 
-My current research is at the intersection of social science (normally, but not always, economics), machine learning, and agent based modeling. My publications span a wide variety of areas in economics, modeling, and public policy. Most recently I have done award winning work on the development of agent based models to understand chronic disease progression, which was approved for a forthcoming TEDxPfizer talk. I completed my PhD at the London School of Economics and have taught at McGill, LSE, Georgetown, and NYU. My next book (Machine Learning and AI for Macroeconomics) will be published by CRC Press in 2022.
+My current research is at the intersection of social science (normally, but not always, economics), machine learning, and agent based modeling. My publications span a wide variety of areas in economics, modeling, and public policy. I completed my PhD at the London School of Economics and have taught at McGill, LSE, Georgetown, and NYU. My next book (Machine Learning and AI for Macroeconomics) will be published by CRC Press in 2022.
 
 Presently, I work on macro and climate change modeling and analytics for the International Finance Corporation (the World Bank Group's private sector investment arm). I principally work on Asia and Asia-global linkages.
 
