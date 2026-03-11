@@ -1,23 +1,28 @@
 ## A little about me
 
-My current research is at the intersection of macroeconomics, political economy, and economic development. My publications span a wide variety of areas in economics, modeling, and public policy. I also have a strong interest in the role that machine learning and AI based approaches can play in improving economic forecasting to improve policy. My next book (Machine Learning and AI for Macroeconomics) will be published by CRC Press in 2026. I completed my PhD in international political economy at the London School of Economics and have taught economics, public policy, finance, and corporate strategy at McGill, LSE, Georgetown, King's College London, and SCAD.
+In the spirit of Franco Modigliani’s reflections on his own career, I have had many adventures as an economist. Over the past two decades, since earning my PhD from the London School of Economics, I have worked across policy institutions, capital markets, and global corporations, advising senior leaders on macroeconomic risk, demand dynamics, and structural change.
 
-Presently, I an economics advisor for the International Finance Corporation (the World Bank Group's private sector investment arm). I principally work on Asia and Asia-global linkages. Prior to IFC, I was the chief corporate economist at Pfizer, where I managed a cross-functional team of economists and data scientists that provided economic analysis and modeling (including econometric, machine learning/AI, and agent-based modeling) for teams across the organization and briefed C-suite leaders on the impact of current and forecasted cyclical and structural economic trends. 
+I spent roughly 20 years of experience covering economies across most regions of the world with the International Monetary Fund and the World Bank, before serving as Chief Economist in both a quant hedge fund and a $300bn public corporation. In these roles, I built macroeconometric and machine learning models to forecast global growth, equity markets, bond yields, and commodities, and translated those insights into board briefings, C-suite strategy sessions, and enterprise-wide decision frameworks.
 
-Earlier in my career, I spent over a decade as an economist at the World Bank and the International Monetary Fund where I worked on economies across most regions of the world. In my last position, I spent time in the World Bank's research department (DECPG) on the Global Modeling and Analytics division and the Global Macroeconomics division, which are responsible for forecasting, modeling and exploring future scenarios for economic growth and development. I also served as chief economist at a quant hedge fund where I integrated U.S. and global macro forecasts into reversion and momentum strategies to generate high and low frequency signals for a range of asset classes, particularly U.S. and global equities. I also managed a portfolio of long-only global equities. 
+But, primarily my work has focused on the major forces shaping the global economy, including technological transformation, demographic change, migration, climate risk, and evolving patterns of production and investment. I have worked closely with many of the world’s largest public and private sector organisations, often on the ground and across regions, at moments of both expansion and crisis.
+
+Today, I advise consumer and global business leaders on how macroeconomic forces shape behaviour, demand, pricing power, and competitive positioning. Through my advisory work and as co-founder of A Working Title LLC, I operate at the intersection of macroeconomics, behavioural insight, and strategic narrative, helping organisations align strategy and communication with real economic conditions and long-term value creation.
+
+My research and commentary on macroeconomics, finance, and corporate strategy have appeared in The Economist, the Financial Times, the Wall Street Journal, Vogue Business, Jing Daily, and CNN. I have also taught economics and finance at LSE, McGill, Georgetown, King’s College London, and SCAD.
 
 I have extensive experience in speaking with the media as well as academic and industry conferences. Please feel free to reach out if you are interested.
 
 ## Some links to my work and social media
 [Google Scholar](https://scholar.google.com/citations?user=9HiFdkEAAAAJ&hl=en)  
-[Twitter](https://twitter.com/brycequillin)  
 [GitHub](https://github.com/bquillin12)  
 [Amazon author's page](https://www.amazon.com/Bryce-Quillin/e/B001JSCH6W)   
 [World Bank blogger page](http://blogs.worldbank.org/team/bryce-quillin)     
 [LinkedIn](https://linkedin.com/in/bquillin)  
-[BBVA OpenMind](https://www.bbvaopenmind.com/en/authors/bryce-quillin/)  
+[BBVA OpenMind](https://github.com/bquillin12/BBVA_OpenMind/)  
 
 ## Some representative work
+
+*The Differentiation Economy: Why Narrative Systems Will Define Growth in the AI Era* A look around the corner on the macroeconomic and business strategy trends that will drive differentation in elevated retail brand performance in 2026. [(Link)](https://www.fashionstrategyweekly.com/p/the-differentiation-economy-why-narrative?utm_source=publication-search)
 
 *Global Monitoring Report 2015/2016: Development Goals in an Era of Demographic Change*, World Bank global flagship report, authored by a World Bank DEC team, October 2015. Featured a chart listed by the New Yorker as one of the Four Charts that Defined the World in 2015. [(Link)](http://www.worldbank.org/gmr)
 
@@ -34,6 +39,7 @@ Remittances, Institutions and Economic Growth, *World Development*, 37, 1. A wid
 
 
  
+
 
 
 
