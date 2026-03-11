@@ -14,7 +14,7 @@ I have extensive experience in speaking with the media as well as academic and i
 
 ## Some links to my work and social media
 - [My IWT Retail Markets Commentary](https://itsworkingtitle.com/iwt-markets-wire/)
-- [Recent appearnce on CNN with Richard Quest](https://www.youtube.com/watch?v=fadZNq9UFHY)
+- [Recent appearance on CNN with Richard Quest](https://www.youtube.com/watch?v=fadZNq9UFHY)
 - [Google Scholar](https://scholar.google.com/citations?user=9HiFdkEAAAAJ&hl=en)
 - [GitHub](https://github.com/bquillin12)
 - [Amazon author's page](https://www.amazon.com/Bryce-Quillin/e/B001JSCH6W)
@@ -41,6 +41,7 @@ Remittances, Institutions and Economic Growth, *World Development*, 37, 1. A wid
 
 
  
+
 
 
 
