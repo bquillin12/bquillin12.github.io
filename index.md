@@ -13,6 +13,7 @@ My research and commentary on macroeconomics, finance, and corporate strategy ha
 I have extensive experience in speaking with the media as well as academic and industry conferences. Please feel free to reach out if you are interested.
 
 ## Some links to my work and social media
+[My IWT Retail Markets Commentary](https://itsworkingtitle.com/iwt-markets-wire/)
 [Google Scholar](https://scholar.google.com/citations?user=9HiFdkEAAAAJ&hl=en)  
 [GitHub](https://github.com/bquillin12)  
 [Amazon author's page](https://www.amazon.com/Bryce-Quillin/e/B001JSCH6W)   
@@ -39,6 +40,7 @@ Remittances, Institutions and Economic Growth, *World Development*, 37, 1. A wid
 
 
  
+
 
 
 
