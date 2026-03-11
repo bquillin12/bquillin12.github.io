@@ -29,6 +29,8 @@ I have extensive experience in speaking with the media as well as academic and i
 
 *Global Monitoring Report 2015/2016: Development Goals in an Era of Demographic Change*, World Bank global flagship report, authored by a World Bank DEC team, October 2015. Featured a chart listed by the New Yorker as one of the Four Charts that Defined the World in 2015. [(Link)](http://www.worldbank.org/gmr)
 
+*Co-created the World Bank's annual Country Policy and Institutional Assessment* This quantitative index scores every borrower economy annually across a range 16 indicators that help drive inclusive and sustainable economic growth. [(Link)](https://databank.worldbank.org/source/country-policy-and-institutional-assessment/preview/on)
+
 *The Caucasus and Central Asia: Transitioning to Emerging Markets*, International Monetary Fund, Middle East and Central Asia Departmental Paper 14/2. I authored the bits on political economy and structural reforms and worked on monetary policy.[(Link)](https://www.imf.org/external/pubs/ft/dp/2014/1402mcd.pdf)
 
 Remittances, Institutions and Economic Growth, *World Development*, 37, 1. A widely cited paper on the impact of remittances on longer-term patterns of economic growth. Authored in 2009 with N. Catrinescu, M. Leon-Ledesma and M. Piracha. Selected as an Outstanding Research Product by the World Bank in the areas of trade and integration in 2009-11.[(Link)](https://ideas.repec.org/a/eee/wdevel/v37y2009i1p81-92.html)
@@ -42,6 +44,7 @@ Remittances, Institutions and Economic Growth, *World Development*, 37, 1. A wid
 
 
  
+
 
 
 
