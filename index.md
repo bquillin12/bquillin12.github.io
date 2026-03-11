@@ -13,14 +13,15 @@ My research and commentary on macroeconomics, finance, and corporate strategy ha
 I have extensive experience in speaking with the media as well as academic and industry conferences. Please feel free to reach out if you are interested.
 
 ## Some links to my work and social media
-- [My IWT Retail Markets Commentary](https://itsworkingtitle.com/iwt-markets-wire/)
-- [Recent appearance on CNN with Richard Quest](https://www.youtube.com/watch?v=fadZNq9UFHY)
 - [Google Scholar](https://scholar.google.com/citations?user=9HiFdkEAAAAJ&hl=en)
 - [GitHub](https://github.com/bquillin12)
 - [Amazon author's page](https://www.amazon.com/Bryce-Quillin/e/B001JSCH6W)
 - [World Bank blogger page](http://blogs.worldbank.org/team/bryce-quillin)
 - [LinkedIn](https://linkedin.com/in/bquillin)
-- [BBVA OpenMind](https://github.com/bquillin12/BBVA_OpenMind/)
+- [Recent appearance on CNN with Richard Quest](https://www.youtube.com/watch?v=fadZNq9UFHY)
+- [BBVA OpenMind Essays on AI, Demographics and Development](https://github.com/bquillin12/BBVA_OpenMind/)
+- [Nomura Foundation article on climate financing in Asia](https://www.nomurafoundation.or.jp/en/wordpress/wp-content/uploads/2022/03/NJACM5-2SP22-03.pdf)
+- [My IWT retail markets commentary](https://itsworkingtitle.com/iwt-markets-wire/)
 
 ## Some representative work
 
@@ -41,6 +42,7 @@ Remittances, Institutions and Economic Growth, *World Development*, 37, 1. A wid
 
 
  
+
 
 
 
