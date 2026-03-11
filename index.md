@@ -21,7 +21,7 @@ I have extensive experience in speaking with the media as well as academic and i
 - [Recent appearance on CNN with Richard Quest](https://www.youtube.com/watch?v=fadZNq9UFHY)
 - [BBVA OpenMind Essays on AI, Demographics and Development](https://github.com/bquillin12/BBVA_OpenMind/)
 - [Nomura Foundation article on climate financing in Asia](https://www.nomurafoundation.or.jp/en/wordpress/wp-content/uploads/2022/03/NJACM5-2SP22-03.pdf)
-- [My IWT retail markets commentary](https://itsworkingtitle.com/iwt-markets-wire/)
+- [IWT retail markets commentary](https://itsworkingtitle.com/iwt-markets-wire/)
 
 ## Some representative work
 
@@ -44,6 +44,7 @@ Remittances, Institutions and Economic Growth, *World Development*, 37, 1. A wid
 
 
  
+
 
 
 
