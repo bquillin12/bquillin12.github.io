@@ -22,6 +22,7 @@ I have extensive experience in speaking with the media as well as academic and i
 - [BBVA OpenMind Essays on AI, Demographics and Development](https://github.com/bquillin12/BBVA_OpenMind/)
 - [Nomura Foundation article on climate financing in Asia](https://www.nomurafoundation.or.jp/en/wordpress/wp-content/uploads/2022/03/NJACM5-2SP22-03.pdf)
 - [IWT retail markets commentary](https://itsworkingtitle.com/iwt-markets-wire/)
+- [FSW podcast series](https://podcasts.apple.com/us/podcast/fsw-conversations/id1728091440)
 
 ## Some representative work
 
