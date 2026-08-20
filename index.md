@@ -6,7 +6,7 @@ I spent roughly 20 years of experience covering economies across most regions of
 
 But, primarily my work has focused on the major forces shaping the global economy, including technological transformation, demographic change, migration, climate risk, and evolving patterns of production and investment. I have worked closely with many of the world’s largest public and private sector organisations, often on the ground and across regions, at moments of both expansion and crisis.
 
-Today, I advise consumer and global business leaders on how macroeconomic forces shape behaviour, demand, pricing power, and competitive positioning. Through my advisory work and as co-founder of A Working Title LLC, I operate at the intersection of macroeconomics, behavioural insight, and strategic narrative, helping organisations align strategy and communication with real economic conditions and long-term value creation.
+Today, I advise consumer and global business leaders on how macroeconomic forces shape behaviour, demand, pricing power, and competitive positioning. Through my advisory work and as co-founder of IWT Markets and It's A Working Title LLC, I operate at the intersection of macroeconomics, behavioural insight, and strategic narrative, helping organisations align strategy and communication with real economic conditions and long-term value creation.
 
 My research and commentary on macroeconomics, finance, and corporate strategy have appeared in The Economist, the Financial Times, the Wall Street Journal, Vogue Business, Jing Daily, and CNN. I have also taught economics and finance at LSE, McGill, Georgetown, King’s College London, and SCAD.
 
