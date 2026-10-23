@@ -2,7 +2,7 @@
 
 In the spirit of Franco Modigliani’s reflections on his own career, I have had many adventures as an economist. Over the past two decades, since earning my PhD from the London School of Economics, I have worked across policy institutions, capital markets, and global corporations, advising senior leaders on macroeconomic risk, demand dynamics, and structural change.
 
-I spent roughly 20 years of experience covering economies across most regions of the world with the International Monetary Fund and the World Bank, before serving as Chief Economist in both a quant hedge fund and a $300bn public corporation. In these roles, I built macroeconometric and machine learning models to forecast global growth, equity markets, bond yields, and commodities, and translated those insights into board briefings, C-suite strategy sessions, and enterprise-wide decision frameworks.
+I spent roughly 20 years covering economies across most regions of the world with the International Monetary Fund and the World Bank, before serving as Chief Economist in both a quant hedge fund and a $300bn public corporation. In these roles, I built macroeconometric and machine learning models to forecast global growth, equity markets, bond yields, and commodities, and translated those insights into board briefings, C-suite strategy sessions, and enterprise-wide decision frameworks.
 
 But, primarily my work has focused on the major forces shaping the global economy, including technological transformation, demographic change, migration, climate risk, and evolving patterns of production and investment. I have worked closely with many of the world’s largest public and private sector organisations, often on the ground and across regions, at moments of both expansion and crisis.
 
